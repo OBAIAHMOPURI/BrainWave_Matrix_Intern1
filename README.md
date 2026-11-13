@@ -1,5 +1,29 @@
 # Hospital Management System
 
+## Project Overview
+
+Hospital Management System is a learning project for discussing administrative journeys such as patient registration, appointment records, billing, supplies, and staff information. It offers a starting point for understanding how information might move between people and forms.
+
+**Current stage:** an incomplete educational prototype with application source, not a clinical or hospital-ready product. Use fictional examples only; never enter real patient, medical, billing, or staff information.
+
+## Business Use Cases
+
+Use this project for learning and process discussions, not healthcare delivery:
+
+- **Workflow mapping:** describe a fictional registration-to-appointment journey and identify unclear handoffs.
+- **Team orientation:** discuss what reception, administrative, and support roles would need to see or do, without claiming those permissions are implemented.
+- **Requirements planning:** prioritize missing privacy safeguards, reliable record saving, and correct date handling before considering any real-world use.
+
+## Team Onboarding Checklist
+
+- [ ] Read the current-stage note and understand that this is not approved for clinical use.
+- [ ] Choose a fictional administrative scenario and agree the purpose of the discussion.
+- [ ] Ask a technical teammate which forms and record-saving steps are incomplete or unverified.
+- [ ] Keep all real patient, medical, billing, and staff details out of examples and screenshots.
+- [ ] Read the [contribution guide](CONTRIBUTING.md), record unanswered questions, and browse [Related Projects](#related-projects).
+
+## Existing Project Details
+
 A Java Servlet/JDBC **learning application** under [`Hospital_Management_System/`](Hospital_Management_System/) with HTML forms for patient registration, appointment scheduling, health records, billing, supplies, and staff records. Handlers write directly to a local MySQL `hospital` schema.
 
 > **Safety/status:** This is an incomplete educational prototype, not a clinical system. No authentication/authorization layer or original database DDL was found, credentials are embedded in source, and some operations do not persist or honor submitted values. Do not use real patient, medical, billing, or staff data.
@@ -65,7 +89,11 @@ After local prerequisites and remediation, the intended menu path is `/Hospital_
 
 Documentation does not remediate these defects. Use isolated synthetic-data demonstrations only.
 
-## Network Ecosystem
+## Related Projects
+
+Explore the seven other projects in this account. Each link opens that project's main page so you can compare its purpose and stage. These are browsing links, not live connections between applications.
+
+### Network Ecosystem
 
 This is a navigation network across all eight repositories owned by this account, audited on 13 November 2026. Links indicate sibling projects, **not implemented integrations**. The Java apps are independent learning projects; the six service repositories have no application code.
 
