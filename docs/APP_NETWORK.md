@@ -36,3 +36,7 @@ All links below open promotional documents, not live integrations. The four manu
 Website showcase publication is tracked separately. Existing source, setup instructions, safety warnings, and repository identity are unchanged. No application build, runtime, security, performance, or integration test is claimed by this content update.
 
 [Machine-readable app registry](https://github.com/OBAIAHMOPURI/edge-gateway-service/blob/main/docs/app-network/registry.json).
+
+## Written review paths
+
+[Reading paths, readiness boundaries, and synthetic review worksheets](APP_NETWORK_READING_PATHS.md).
